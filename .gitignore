@@ -2,7 +2,7 @@
 *
 
 # Except Jekyll theme
-_config.yml
+!_config.yml
 
 # Except markdown files
-*.md
+!*.md

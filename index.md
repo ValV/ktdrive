@@ -1,3 +1,3 @@
-# KtDrive, kickass Google Drive command line utility
+# KtDrive, kick-ass Google Drive command line utility
 
-Privacy policy [page](policy.html)
+KtDrive kicks asses, indeed, check privacy policy [page](policy.html).

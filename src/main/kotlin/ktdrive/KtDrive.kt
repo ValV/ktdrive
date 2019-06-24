@@ -50,7 +50,7 @@ class KtDrive {
         .setAccessType("offline")
         .build()
       val receiver = LocalServerReceiver.Builder().setPort(8888).build()
-      return AuthorizationCodeInstalledApp(flow, receiver).authorize("0x05a4")
+      return AuthorizationCodeInstalledApp(flow, receiver).authorize("user")
     }
 
     public fun run() {
